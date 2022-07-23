@@ -1,0 +1,30 @@
+.block {
+    background-color: yellowgreen
+}
+.nav {
+    float: left;
+    background-color: yellowgreen;
+    width: 15em;
+    margin-right: 5px;          
+    }
+.article {              
+    background-color: blue;
+    width: auto;
+    margin-left: 15em;
+    margin-bottom: 0.2em;
+    padding: 5px;
+     }
+.footer {
+    clear: both;
+    background-color: violet;
+    width: auto;
+    height: auto             
+   }
+.icon {
+    float:right
+}
+.empty{
+    background-color: blue;
+    overflow: auto;
+    clear: both;
+}   
